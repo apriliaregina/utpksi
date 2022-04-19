@@ -12,6 +12,7 @@ Kontribusi :
     = Halaman utama (index.php, check-login.php, logout.php
 
 Sistem yang dibuat :
+
 Membuat sistem sederhana, terdapat halaman login dengan 2 role (user dan admin). Sistem yang dibuat yaitu halaman login dengan admin memiliki tampilan semua user dan user hanya menampilkan gambar.
 
 Demo sistem :
