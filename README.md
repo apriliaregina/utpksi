@@ -5,7 +5,7 @@ Anggota :
 
 Kontribusi :
 1. Dyna Shafa Salsabila - 2007051042
-    = Koneksi Database (db_conn.php, my_sql.sql)
+    = Koneksi Database (db_conn.php, my_db.sql)
 2. Putra Dwi Pradana - 2007051048
     = Halaman Setelah Login (home.php, members.php)
 3. Aprilia Regina - 2007051050
