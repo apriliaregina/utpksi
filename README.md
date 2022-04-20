@@ -9,7 +9,7 @@ Kontribusi :
 2. Putra Dwi Pradana - 2007051048
     = Halaman Setelah Login (home.php, members.php)
 3. Aprilia Regina - 2007051050
-    = Halaman utama (index.php, check-login.php, logout.php
+    = Halaman utama (index.php, check-login.php, logout.php)
 
 Sistem yang dibuat :
 
